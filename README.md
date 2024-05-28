@@ -7,3 +7,24 @@ Bem-vindo ao meu repositório principal para o roadmap de desenvolvimento backen
 
 ### 1. Internet e Web
 - [Internet e Web](https://github.com/gilmarSantana/)
+
+
+
+
+
+## Como Navegar
+
+Cada repositório listado acima contém exemplos, exercícios e projetos relacionados ao tópico específico. Visite os repositórios individuais para obter detalhes e começar a explorar.
+
+## Contribuições
+
+Se você deseja contribuir com este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request nos repositórios correspondentes. Toda ajuda é bem-vinda!
+
+## Contato
+
+Se tiver alguma dúvida ou sugestão, entre em contato comigo:
+
+- Email: gilmar.livecont@gmail.com
+- LinkedIn: [gilmarSantana](https://www.linkedin.com/in/gilmar-santana-lins-53b390126/)
+
+Obrigado por visitar meu roadmap de desenvolvimento backend!
