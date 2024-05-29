@@ -25,6 +25,6 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para abrir uma 
 Se tiver alguma dúvida ou sugestão, entre em contato comigo:
 
 - Email: gilmar.livecont@gmail.com
-- LinkedIn: [gilmarSantana](https://www.linkedin.com/in/gilmar-santana-lins-53b390126/)
+- LinkedIn: [Gilmar Santana Lins](https://www.linkedin.com/in/gilmar-santana-lins-53b390126/)
 
 Obrigado por visitar meu roadmap de desenvolvimento backend!
